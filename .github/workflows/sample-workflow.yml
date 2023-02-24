@@ -13,15 +13,15 @@ stringValue: wer
 string1: |
    Line1
    line2
-   "line3"   
-  line4
+   line3 
+  
 
 # Multiline strings with folded block syntax - new lines are not preserved, leading and trailing spaces are ignore
   string1: >
    Line1
    line2
-   "line3"   
-  line4
+   line3 
+  
 # Collection sequence data types
  # sequence arraylist example
  - One
