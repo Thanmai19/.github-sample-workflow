@@ -11,7 +11,8 @@ stringValue: "456"
 stringValue: 'abc'                  
 stringValue: wer                   
 
-booleanValue:true                  
+booleanValue:true      # boolean values - true or false
+            
 
 
 # Multiline string with literal block syntax -preserved new lines
